@@ -2,6 +2,7 @@
 
 ## Overview
 Machine OS: Linux
+
 Difficulty: Easy
 
 ![image](https://user-images.githubusercontent.com/99826925/212559935-cadec647-87aa-4757-9643-42e7d8ad8c7c.png)
